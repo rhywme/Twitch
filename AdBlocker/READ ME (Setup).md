@@ -10,5 +10,7 @@
 
 - If you would like to do this to your phone, sadly you can't unless you use a browser with extension support and do all the steps from the beginning and I don't really know if it's really worth it.
   I consider using one of these browsers with extension support that might help.
+  
   For Android: Kiwi Browser - Fast & Quiet, Yandex
+  
   For IOS: Orion Browser -> https://apps.apple.com/us/app/orion-browser-by-kagi/id1484498200
